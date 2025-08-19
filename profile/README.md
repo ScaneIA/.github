@@ -1,4 +1,4 @@
-#ScaneIA
+# ScaneIA
 
 *ScaneIA seu passado, organiza seu futuro.*
 
@@ -33,11 +33,11 @@ Nosso aplicativo é dividido em setores e oferece funcionalidades pouco comuns n
 
 ---
 
-##📋 Boas Práticas da Organização ScaneIA
+## 📋 Boas Práticas da Organização ScaneIA
 
 Para mantermos a organização e um padrão no fluxo de trabalho, siga as regras abaixo em todos os repositórios, branches e tasks.
 
-###📂 Nome dos Repositórios
+### 📂 Nome dos Repositórios
 
 Formato: scaneia-nome-do-projeto-série
 
@@ -47,7 +47,7 @@ scaneia-mobile-segundo
 
 scaneia-landing-page-primeiro
 
-###🌿 Branches
+### 🌿 Branches
 
 O nome da branch deve indicar a funcionalidade.
 
@@ -61,7 +61,7 @@ feat/pull-request-template
 
 feat/approve-permissions
 
-###📝 Títulos das Tasks
+### 📝 Títulos das Tasks
 
 Formato: NOME DA DISCIPLINA - task
 
@@ -73,7 +73,7 @@ BANCO DE DADOS 1 - criar modelagem
 
 Em disciplinas que possuem turmas em mais de um ano, utilize 1 ou 2 para diferenciar.
 
-###📅 Regras para Tasks
+### 📅 Regras para Tasks
 
 Toda task deve estar atribuída a alguém. ✅
 
@@ -85,8 +85,8 @@ O tempo máximo para uma task ficar em Code Review é de 3 dias.
 
 ---
 
-##⚡ Nosso compromisso é unir organização, inovação e inteligência para transformar o futuro do setor alimentício.
+## ⚡ Nosso compromisso é unir organização, inovação e inteligência para transformar o futuro do setor alimentício.
 
 ---
 
-##⚙️ Como testar o projeto
+## ⚙️ Como testar o projeto
