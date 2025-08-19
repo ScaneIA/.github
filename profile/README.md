@@ -85,7 +85,7 @@ O tempo máximo para uma task ficar em Code Review é de 3 dias.
 
 ---
 
-## ⚡ Nosso compromisso é unir organização, inovação e inteligência para transformar o futuro do setor alimentício.
+### ⚡ Nosso compromisso é unir organização, inovação e inteligência para transformar o futuro do setor alimentício.
 
 ---
 
