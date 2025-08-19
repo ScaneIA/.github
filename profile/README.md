@@ -12,7 +12,7 @@ Identificar inconsistências nos dados digitalizados;
 
 Permitir a revisão de planilhas para garantir maior confiabilidade.
 
-👥 Integrantes
+👥 Integrantes  
 [Aline Teodoro](https://github.com/alineteodoro)  
 [Brenda Soriano](https://github.com/brendasoriano)  
 [Bruna Cardoso](https://github.com/BrunaCCardoso)  
