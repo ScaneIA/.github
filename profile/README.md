@@ -1,5 +1,5 @@
-# ScaneIA
-
+# ScaneIA 📱
+ 
 *ScaneIA seu passado, organiza seu futuro.*
 
 O ScaneIA é um aplicativo desenvolvido para escanear e digitalizar planilhas, com o objetivo de otimizar o desempenho dos colaboradores do setor alimentício da JBS.
