@@ -12,6 +12,8 @@ Identificar inconsistências nos dados digitalizados;
 
 Permitir a revisão de planilhas para garantir maior confiabilidade.
 
+***
+
 👥 Integrantes  
 [Aline Teodoro](https://github.com/alineteodoro)  
 [Brenda Soriano](https://github.com/brendasoriano)  
@@ -29,7 +31,7 @@ Permitir a revisão de planilhas para garantir maior confiabilidade.
 [Ryan Lionel](https://github.com/RyanLionel)  
 [Tainá Martinelli](https://github.com/Taina14m)  
 
-
+***
 
 📋 Boas Práticas da Organização ScaneIA
 
