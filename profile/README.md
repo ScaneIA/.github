@@ -13,21 +13,21 @@ Identificar inconsistências nos dados digitalizados;
 Permitir a revisão de planilhas para garantir maior confiabilidade.
 
 👥 Integrantes
-[Aline Teodoro](https://github.com/alineteodoro)
-[Brenda Soriano](https://github.com/brendasoriano)
-[Bruna Cardoso](https://github.com/BrunaCCardoso)
-[Gabrel Bordin](https://github.com/gabriel-c-bordin)
-[Gustavo Costa](https://github.com/GustavoCostaAM)
-[Isabella Camargo](https://github.com/Bellac009)
-[João Vitor Vargas](https://github.com/vitororo757)
-[Lorenzo Oliveira](https://github.com/LorenzoOliveira-git)
-[Lucas Laurente](https://github.com/Laurente64)
-[Manuelli Flaviano](https://github.com/manuellifla)
-[Maria Julia Dawla](https://github.com/MariaDawla)
-[Mateus Mancini](https://github.com/Mateus-MCA)
-[Natalia Flores](https://github.com/NataliaFlores05)
-[Ryan Lionel](https://github.com/RyanLionel)
-[Tainá Martinelli](https://github.com/Taina14m)
+[Aline Teodoro](https://github.com/alineteodoro)  
+[Brenda Soriano](https://github.com/brendasoriano)  
+[Bruna Cardoso](https://github.com/BrunaCCardoso)  
+[Gabrel Bordin](https://github.com/gabriel-c-bordin)  
+[Gustavo Costa](https://github.com/GustavoCostaAM)  
+[Isabella Camargo](https://github.com/Bellac009)  
+[João Vitor Vargas](https://github.com/vitororo757)  
+[Lorenzo Oliveira](https://github.com/LorenzoOliveira-git)  
+[Lucas Laurente](https://github.com/Laurente64)  
+[Manuelli Flaviano](https://github.com/manuellifla)  
+[Maria Julia Dawla](https://github.com/MariaDawla)  
+[Mateus Mancini](https://github.com/Mateus-MCA)  
+[Natalia Flores](https://github.com/NataliaFlores05)  
+[Ryan Lionel](https://github.com/RyanLionel)  
+[Tainá Martinelli](https://github.com/Taina14m)  
 
 
 
