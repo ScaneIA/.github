@@ -2,7 +2,7 @@
  
 *ScaneIA seu passado, organiza seu futuro.*
 
-O ScaneIA é um aplicativo desenvolvido para escanear e digitalizar planilhas, com o objetivo de otimizar o desempenho dos colaboradores do setor alimentício da JBS.
+O ScaneIA é um aplicativo desenvolvido para escanear e digitalizar planilhas, com o objetivo de otimizar o desempenho dos colaboradores do setor alimentício.
 
 Nosso aplicativo é dividido em setores e oferece funcionalidades pouco comuns no mercado. Além da digitalização de planilhas, o ScaneIA utiliza inteligência artificial para:
 
